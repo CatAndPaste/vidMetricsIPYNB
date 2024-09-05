@@ -29,7 +29,7 @@ dependencies:
     - scikit_posthocs==0.6.7
     - scikit-image==0.18.3
     - tqdm==4.62.3
-    - tensorflow
+    - tensorflow[and-cuda]
     - opencv-python==4.10.0.84
     - pyVHR==2.0
     - setuptools==59.8.0
